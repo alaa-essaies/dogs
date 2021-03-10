@@ -1,4 +1,5 @@
 # dogs
+Deployed on heroku here : https://radiant-shelf-61239.herokuapp.com/
 
 ## Build Setup
 
